@@ -1,0 +1,33 @@
+1.人脸注册
+    (1)照片文件夹存放路径：user_register\user_dir\...
+    (2)照片文件夹目录格式：
+       --example_dir
+         |__user_id1
+            |__图片1
+            |__.......
+         |__user_id2
+            |__图片1
+            |__.......
+         |__....
+    (3)修改user_register.py主程序中的group_name="照片文件夹名字"
+    (4)运行user_register.py
+
+
+2.人脸删除
+    (1)照片文件夹存放路径：user_delete\user_id_dir\...
+    (2)照片文件夹目录格式：同上
+    (3)修改user_delete.py主程序中的group_name="照片文件夹名字"
+    (4)运行user_delete.py
+
+
+
+
+
+
+
+
+
+
+
+
+
